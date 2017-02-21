@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="action_settings">Settings</string>
+    <string name="token">密 码</string>
+    <string name="login">登 录</string>
+    <string name="logout">注 销</string>
+</resources>
